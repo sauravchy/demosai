@@ -4,7 +4,7 @@
  * @Author             : ChangeMeIn@UserSettingsUnder.SFDoc
  * @Group              : 
  * @Last Modified By   : ChangeMeIn@UserSettingsUnder.SFDoc
- * @Last Modified On   : 6/8/2019, 7:51:12 PM
+ * @Last Modified On   : 6/8/2019, 7:55:30 PM
  * @Modification Log   : 
  *==============================================================================
  * Ver         Date                     Author      		      Modification
@@ -14,6 +14,10 @@
 public class TestDemo{
     
     public static void demo(){
+<<<<<<< HEAD
         System.debug('helloworld1111222222');
+=======
+       
+>>>>>>> 46c3bb2531a8be0c47b27d40a0a8d74c751c42fc
     }
 }
