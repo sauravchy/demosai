@@ -19,5 +19,7 @@ public class TestDemo{
 =======
        
 >>>>>>> 46c3bb2531a8be0c47b27d40a0a8d74c751c42fc
+    
+    system.debug('hello');
     }
 }
